@@ -1,1 +1,1 @@
-# seikei-crawler
+# 成蹊大学内部Webサーバ上のPDFファイルをカタログ化
